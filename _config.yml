@@ -1,0 +1,29 @@
+name: djtantrum
+favicon: null
+layout_spectrum: 0.6918229572474957
+typography_spectrum: 0.8568715041037649
+title: 'DJ TANTRUM '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5463311118073761
+  lightness: 0.24812321737408638
+  saturation: 0.10700277611613274
+  rhythmicContrast: 0.1820383456069976
+purpose: []
