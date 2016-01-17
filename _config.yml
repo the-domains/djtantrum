@@ -1,7 +1,7 @@
 name: djtantrum
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.8568715041037649
+layout_spectrum: 1
+typography_spectrum: 0.27091
 title: 'DJ TANTRUM '
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#a0a0a0'
     - '#b10000'
     - '#008300'
-  brandStrength: 0.1875
+  brandStrength: 0.6875
   lightness: 0.875
   saturation: 0.10700277611613274
   rhythmicContrast: 0.25
